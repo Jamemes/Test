@@ -9,7 +9,7 @@
 		{
 			"identifier" : "test",
 			"host": {
-				"meta": ""
+				"meta": "https://raw.githubusercontent.com/Jamemes/Test/meta/meta.json"
 			}
 		}
 	]
