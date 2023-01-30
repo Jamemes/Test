@@ -1,0 +1,16 @@
+{
+	"name": "lox",
+	"description": "",
+	"author": "James",
+	"version": "1",
+	"hooks": [
+	],
+	"updates" : [
+		{
+			"identifier" : "test",
+			"host": {
+				"meta": ""
+			}
+		}
+	]
+}
